@@ -1,4 +1,11 @@
 All the code/configs we'll be putting on our Raspbrry Pi's.
 
-Instructions on setting up:
+Instructions for setup:
 
+
+TODO:
+add c code to use uart GPIO pins with GPS
+Add byzantium configs
+Add CHDK configs
+complete "Instructions for setup" section
+rework README in whatever code Nathen uses for his git READMEs
